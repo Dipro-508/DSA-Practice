@@ -2,13 +2,13 @@
 
 > **A structured learning portfolio documenting my journey through Data Structures & Algorithms using C programming.**
 
-![Status](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=for-the-badge)
-![University](https://img.shields.io/badge/B.Sc.-CSE-blue?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/Dipro-508/DSA-Practice?style=flat-square)
+![University](https://img.shields.io/badge/B.Sc.-CSE-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=flat-square)
+![Language](https://img.shields.io/badge/Language-C-blue?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Dipro-508/DSA-Practice?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Dipro-508/DSA-Practice?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/Dipro-508/DSA-Practice?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/Dipro-508/DSA-Practice?style=flat-square)
-![Language](https://img.shields.io/badge/Language-C-blue?style=flat-square)
 
 ---
 
