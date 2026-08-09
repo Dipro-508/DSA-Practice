@@ -92,24 +92,15 @@ algorithms = [
 
 for name, algorithm in algorithms:
     data = arr.copy()
-
     start = time.perf_counter()
-
     algorithm(data)
-
     end = time.perf_counter()
-
     print(name, ":", end - start, "seconds")
-
-
 start = time.perf_counter()
 merge_sort(arr.copy())
 end = time.perf_counter()
-
 print("Merge Sort :", end - start, "seconds")
-
 start = time.perf_counter()
 quick_sort(arr.copy())
 end = time.perf_counter()
-
 print("Quick Sort :", end - start, "seconds")
