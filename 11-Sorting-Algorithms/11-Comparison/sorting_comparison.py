@@ -89,7 +89,6 @@ algorithms = [
     ("Selection Sort", selection_sort),
     ("Insertion Sort", insertion_sort)
 ]
-
 for name, algorithm in algorithms:
     data = arr.copy()
     start = time.perf_counter()
