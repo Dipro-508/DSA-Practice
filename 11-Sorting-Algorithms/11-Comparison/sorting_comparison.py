@@ -108,7 +108,6 @@ end = time.perf_counter()
 
 print("Merge Sort :", end - start, "seconds")
 
-
 start = time.perf_counter()
 quick_sort(arr.copy())
 end = time.perf_counter()
