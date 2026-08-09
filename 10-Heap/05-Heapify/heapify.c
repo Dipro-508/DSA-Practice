@@ -1,0 +1,57 @@
+#include <stdio.h>
+
+#define MAX 100
+
+void heapify(int arr[], int n, int i) {
+    int largest = i;
+    int left = 2 * i + 1;
+    int right = 2 * i + 2;
+
+    if(left < n && arr[left] > arr[largest])
+        largest = left;
+
+    if(right < n && arr[right] > arr[largest])
+        largest = right;
+
+    if(largest != i) {
+        int temp = arr[i];
+        arr[i] = arr[largest];
+        arr[largest] = temp;
+
+        heapify(arr, n, largest);
+    }
+}
+
+int main() {
+    int n;
+    int arr[MAX];
+
+    printf("Enter number of elements: ");
+    scanf("%d", &n);
+
+    printf("Enter elements: ");
+
+    for(int i = 0; i < n; i++)
+        scanf("%d", &arr[i]);
+
+    int index;
+
+    printf("Enter index to heapify: ");
+    scanf("%d", &index);
+
+    if(index >= 0 && index < n) {
+        heapify(arr, n, index);
+
+        printf("After Heapify: ");
+
+        for(int i = 0; i < n; i++)
+            printf("%d ", arr[i]);
+
+        printf("\n");
+    }
+    else {
+        printf("Invalid index.\n");
+    }
+
+    return 0;
+}
