@@ -89,11 +89,11 @@ DSA-Practice
 ├── 05-Queue
 ├── 06-Trees
 │
-├── 07-Binary-Search-Tree        (Coming Soon)
-├── 08-Heap                      (Coming Soon)
-├── 09-Graph                     (Coming Soon)
-├── 10-Sorting-Algorithms        (Coming Soon)
-├── 11-Searching-Algorithms      (Coming Soon)
+├── 07-Binary-Search-Tree        
+├── 08-Heap                      
+├── 09-Graph                     
+├── 10-Sorting-Algorithms        
+├── 11-Searching-Algorithms      
 ├── 12-Greedy-Algorithms         (Coming Soon)
 ├── 13-Dynamic-Programming       (Coming Soon)
 ├── 14-Backtracking              (Coming Soon)
@@ -117,11 +117,11 @@ DSA-Practice
 | 04 | Stack | ✅ Completed |
 | 05 | Queue | ✅ Completed |
 | 06 | Trees | ✅ Completed |
-| 07 | Binary Search Tree | ⏳ Planned |
-| 08 | Heap | ⏳ Planned |
-| 09 | Graph | ⏳ Planned |
-| 10 | Sorting Algorithms | ⏳ Planned |
-| 11 | Searching Algorithms | ⏳ Planned |
+| 07 | Binary Search Tree | ✅ Completed |
+| 08 | Heap | ✅ Completed |
+| 09 | Graph | ✅ Completed |
+| 10 | Sorting Algorithms | ✅ Completed |
+| 11 | Searching Algorithms | ✅ Completed |
 | 12 | Greedy Algorithms | ⏳ Planned |
 | 13 | Dynamic Programming | ⏳ Planned |
 | 14 | Backtracking | ⏳ Planned |
@@ -141,11 +141,11 @@ DSA-Practice
 | 04 | Stack | Stack implementation using Array and Linked List | ✅ |
 | 05 | Queue | Linear Queue and Circular Queue | ✅ |
 | 06 | Trees | Tree traversals, AVL Tree, and basic operations | ✅ |
-| 07 | Binary Search Tree | BST insertion, deletion, searching, traversals | ⏳ |
-| 08 | Heap | Min Heap, Max Heap, Priority Queue, Heap Sort | ⏳ |
-| 09 | Graph | Graph representation, BFS, DFS, Shortest Path | ⏳ |
-| 10 | Sorting Algorithms | Bubble, Selection, Merge, Quick, Heap Sort | ⏳ |
-| 11 | Searching Algorithms | Linear Search, Binary Search | ⏳ |
+| 07 | Binary Search Tree | BST insertion, deletion, searching, traversals | ✅ |
+| 08 | Heap | Min Heap, Max Heap, Priority Queue, Heap Sort | ✅ |
+| 09 | Graph | Graph representation, BFS, DFS, Shortest Path | ✅ |
+| 10 | Sorting Algorithms | Bubble, Selection, Merge, Quick, Heap Sort | ✅ |
+| 11 | Searching Algorithms | Linear Search, Binary Search | ✅ |
 | 12 | Greedy Algorithms | Greedy strategy and optimization problems | ⏳ |
 | 13 | Dynamic Programming | Memoization and Tabulation | ⏳ |
 | 14 | Backtracking | N-Queens, Sudoku Solver, Rat in a Maze | ⏳ |
@@ -160,7 +160,7 @@ DSA-Practice
 ### Repository Completion
 
 ```text
-████████████░░░░░░░░░░░░░░░░░░ 35%
+████████████░░░░░░░░░░░░░░░░░░ 63%
 ```
 
 ### Topic Progress
@@ -173,11 +173,11 @@ DSA-Practice
 | Stack | ██████████ 100% |
 | Queue | ██████████ 100% |
 | Trees | ██████████ 100% |
-| Binary Search Tree | ░░░░░░░░░░ 0% |
-| Heap | ░░░░░░░░░░ 0% |
-| Graph | ░░░░░░░░░░ 0% |
-| Sorting Algorithms | ░░░░░░░░░░ 0% |
-| Searching Algorithms | ░░░░░░░░░░ 0% |
+| Binary Search Tree | ░░░░░░░░░░ 100% |
+| Heap | ░░░░░░░░░░ 100% |
+| Graph | ░░░░░░░░░░ 100% |
+| Sorting Algorithms | ░░░░░░░░░░ 100% |
+| Searching Algorithms | ░░░░░░░░░░ 100% |
 | Dynamic Programming | ░░░░░░░░░░ 0% |
 
 ---
