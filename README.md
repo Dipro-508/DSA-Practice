@@ -160,7 +160,7 @@ DSA-Practice
 ### Repository Completion
 
 ```text
-████████████░░░░░░░░░░░░░░░░░░ 63%
+█████████████████████████░░░░░ 82%
 ```
 
 ### Topic Progress
@@ -173,11 +173,11 @@ DSA-Practice
 | Stack | ██████████ 100% |
 | Queue | ██████████ 100% |
 | Trees | ██████████ 100% |
-| Binary Search Tree | ░░░░░░░░░░ 100% |
-| Heap | ░░░░░░░░░░ 100% |
-| Graph | ░░░░░░░░░░ 100% |
-| Sorting Algorithms | ░░░░░░░░░░ 100% |
-| Searching Algorithms | ░░░░░░░░░░ 100% |
+| Binary Search Tree | ██████████ 100% |
+| Heap | ██████████ 100% |
+| Graph | ██████████ 100% |
+| Sorting Algorithms | ██████████ 100% |
+| Searching Algorithms | ██████████ 100% |
 | Dynamic Programming | ░░░░░░░░░░ 0% |
 
 ---
