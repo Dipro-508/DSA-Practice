@@ -187,7 +187,7 @@ DSA-Practice
 | Category | Value |
 |----------------------|----------------------|
 | Programming Language | C |
-| Topics Completed | 6 |
+| Topics Completed | 10 |
 | Topics Planned | 11 |
 | Repository Type | Learning Portfolio |
 | Current Status | Active Development |
