@@ -4,7 +4,6 @@ int main()
     char str[100];
     int freq[256] = {0};
     int unique = 1;
-
     printf("Enter a string: ");
     fgets(str, 100, stdin);
 
